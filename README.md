@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://github.com/sanketghosh/bonfire" target="_blank">
-      <img src="https://github.com/sanketghosh/findevs/blob/main/public/bonfire.png" alt="Project Banner">
+      <img src="https://github.com/sanketghosh/bonfire/blob/main/public/bonfire.png" alt="Project Banner">
     </a>
   <br />
 </div>
