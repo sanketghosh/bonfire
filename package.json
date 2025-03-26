@@ -1,0 +1,15 @@
+{
+  "name": "retrorouter",
+  "module": "src/index.ts",
+  "type": "module",
+  "scripts": {
+    "dev": "bun run --watch src/index.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/node": "^22.13.11"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
